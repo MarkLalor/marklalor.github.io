@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Vinit Kumar
+title: About Mark Lalor
 ---
 
 <h1 class="owner-name">About</h1>
