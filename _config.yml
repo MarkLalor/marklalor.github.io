@@ -2,10 +2,10 @@ name: Mark Lalor
 description: >
     Mark Lalor
 about: >
-    I am a third-year Computer Science major at Case Western Reserve University. My interests lately lie in artificial intelligence and computer networks,
-    and I am currently involved in networks research this fall focusing on the EDNS-Client-Subnet extension to DNS. Outside of classes and research, I'm a part of the exec team of the local
-    ACM chapter. Our goals are to hold events on campus to promote and teach CS, as well as connect students within the community. I am also currently the
-    maintainer of the Hacker Society weekly tech-talk series, which features both students and outside speakers. Feel free to contact me at
+    I am a third-year Computer Science BS candidate at Case Western Reserve University. My interests lie in artificial intelligence and computer networks,
+    and I am currently involved in networks research this fall focusing on the ECS extension to DNS. Beyond classes and research, I'm a part of the exec team of our local
+    ACM chapter. Our goals are to hold events on campus that promote and teach CS, as well as connect students within the community. I am also currently the
+    maintainer of the <a href="hacsoc.org">Hacker Society</a> weekly tech-talk series, which features both students and outside speakers. Feel free to contact me at
     <a href="mailto:markwlalor@gmail.com">markwlalor@gmail.com</a>. If you want to give a tech talk at Case, contact me at <a href="mailto:hacsoc-maintainers@case.edu">hacsoc-maintainers@case.edu</a>.
 
 master_repo: false
@@ -34,5 +34,3 @@ google_analytics:
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
-
-theme: jekyll-theme-minimal
