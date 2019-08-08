@@ -2,11 +2,11 @@ name: Mark Lalor
 description: >
     Mark Lalor
 about: >
-    I am a third-year Computer Science BS candidate at Case Western Reserve University. My interests lie in artificial intelligence and computer networks,
-    and I am currently involved in networks research this fall focusing on the ECS extension to DNS. Beyond classes and research, I'm a part of the exec team of our local
-    ACM chapter. Our goals are to hold events on campus that promote and teach CS, as well as connect students within the community. I am also currently the
-    maintainer of the <a href="hacsoc.org">Hacker Society</a> weekly tech-talk series, which features both students and outside speakers. Feel free to contact me at
-    <a href="mailto:markwlalor@gmail.com">markwlalor@gmail.com</a>. If you want to give a tech talk at Case, contact me at <a href="mailto:hacsoc-maintainers@case.edu">hacsoc-maintainers@case.edu</a>.
+    I am a fourth-year Computer Science BS candidate at Case Western Reserve University. My interests lie in artificial intelligence and computer networks, and
+    on campus I've been involved in networks research and being a teaching assistant. Beyond classes and research, I'm a part of the exec team of our local
+    ACM chapter. Our goals are to hold events on campus that promote and teach CS, as well as connect students within the community. I helped 
+    organize Case's <a href="hacsoc.org">Hacker Society</a> weekly tech-talk series, which features both students and outside speakers. Feel free to contact me at
+    <a href="mailto:markwlalor@gmail.com">markwlalor@gmail.com</a>. If you want to give a tech talk at Case, contact <a href="mailto:hacsoc-maintainers@case.edu">hacsoc-maintainers@case.edu</a>.
 
 master_repo: false
 url: "marklalor.github.io"
@@ -30,7 +30,7 @@ owner:
 rss: true
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:
+google_analytics: 
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
